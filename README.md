@@ -1,2 +1,2 @@
-# BERT_stock_var
-Using BERT natural language model to detect stock variability
+# CHARLES
+Using an RNN to detect stock variability
