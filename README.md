@@ -8,9 +8,14 @@ This project is a multi component analysis of stock variability. I will use sent
 Using tensorflow to detect sentiment from imdb reviews. I will use this model to detect the sentiment of financial articles.
 
 
-## Step 1.a: Using BERT
+## Step 1.b: Using BERT
 
 Using the pre-trained BERT model to see if there is a better accuracy for this model
+
+
+In general, the data set used to train has the following sentiments:
+
+![Alt text](data/scores_of_news.png)
 
 
 ## Step 2:
